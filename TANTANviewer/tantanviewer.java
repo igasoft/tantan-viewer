@@ -1,6 +1,6 @@
 /***********************************************************************
 
-	TITLE:	HoppyBug JPhone
+	TITLE:	Tantan-Viewer
 
 	TARGET:	JOCL 1.0.0
 	MAKE:	H.Igarashi
