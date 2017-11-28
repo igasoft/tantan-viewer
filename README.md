@@ -1,8 +1,9 @@
 <div>
-  <img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg"># tantan-viewer<br><br>
+  <img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg"><h1>tantan-viewer</h1>
 </div>
 To view videos on your mobile.
-![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)![menu.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/menu.jpg)
+![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)
+![menu.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/menu.jpg)
 
 MIDP platform with HTTP to display still images in continuous.
 * Tantan Viewer is for developers of applications for J2ME platform.
