@@ -1,6 +1,6 @@
-
-![logo.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg) # tantan-viewer
-
+<div>
+  <img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg"># tantan-viewer<br><br>
+</div>
 To view videos on your mobile.
 ![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)![menu.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/menu.jpg)
 
