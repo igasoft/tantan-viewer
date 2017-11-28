@@ -1,5 +1,5 @@
 
-![logo.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/website/logo.jpg) # tantan-viewer
+![logo.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg) # tantan-viewer
 
 To view videos on your mobile.
 ![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)![menu.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/menu.jpg)
@@ -24,5 +24,7 @@ MIDP platform with HTTP to display still images in continuous.
 * New version is available within svn trunk.
 
 # Early screenshots
-![landscape_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape_all.jpg)![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)![portrait_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait_all.jpg)![portrait.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait.jpg)
+![landscape_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape_all.jpg)![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)![portrait_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait_all.jpg)
+![portrait.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait.jpg)
+
 And...Comming soon.
