@@ -1,6 +1,5 @@
 <p>
-<img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg" alt="ŽÊ^" align="middle">
-<h1>tantan-viewer</h1>
+<img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg" alt="ŽÊ^" align="middle"><h1>tantan-viewer</h1>
 </p>
 To view videos on your mobile.
 
