@@ -1,6 +1,5 @@
-<p>
-<img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg" alt="ŽÊ^" align="middle"><h1>tantan-viewer</h1>
-</p>
+![logo] tantan-viewer (https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg)
+
 To view videos on your mobile.
 
 ![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)
@@ -25,9 +24,29 @@ MIDP platform with HTTP to display still images in continuous.
 * Basic http access is implemented.
 * New version is available within svn trunk.
 
+#### *Try your first TensorFlow program*
+```shell
+$ javac tantanviewer.java
+```
+```python
+>>> import tensorflow as tf
+>>> hello = tf.constant('Hello, TensorFlow!')
+>>> sess = tf.Session()
+>>> sess.run(hello)
+'Hello, TensorFlow!'
+>>> a = tf.constant(10)
+>>> b = tf.constant(32)
+>>> sess.run(a + b)
+42
+>>> sess.close()
+```
+
 # Early screenshots
 ![landscape_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape_all.jpg)
 ![portrait_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait_all.jpg)
 ![portrait.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait.jpg)
 
 And...Comming soon.
+
+# License
+[Apache License 2.0](LICENSE)
