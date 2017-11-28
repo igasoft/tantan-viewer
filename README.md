@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg"><h1>tantan-viewer</h1>
+  <img src="https://github.com/igasoft/tantan-viewer/blob/master/website/logo.jpg" align="middle"><h1>tantan-viewer</h1>
 </div>
 To view videos on your mobile.
 
@@ -26,7 +26,8 @@ MIDP platform with HTTP to display still images in continuous.
 * New version is available within svn trunk.
 
 # Early screenshots
-![landscape_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape_all.jpg)![landscape.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape.jpg)![portrait_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait_all.jpg)
+![landscape_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/landscape_all.jpg)
+![portrait_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait_all.jpg)
 ![portrait.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait.jpg)
 
 And...Comming soon.
