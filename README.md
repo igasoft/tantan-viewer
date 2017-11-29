@@ -35,7 +35,5 @@ $ javac tantanviewer.java
 ![portrait_all.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait_all.jpg)
 ![portrait.jpg](https://github.com/igasoft/tantan-viewer/blob/master/website/portrait.jpg)
 
-And...Comming soon.
-
 # License
 [Apache License 2.0](LICENSE)
